@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Admin",
+      "lastName": "User",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "phone": "1234567890",
+      "country": "USA",
+      "city": "New York",
+      "aboutMe": "Administrator of the app",
+      "profileImage": "https://example.com/profile/admin.jpg",
+      "googleAuth": false
+    },
+    {
+      "id": "1ada",
+      "name": "xyz",
+      "email": "ashnaxyz@gmail.com",
+      "password": "pakistan1234"
+    },
+    {
+      "id": "2",
+      "firstName": "Ahmad",
+      "lastName": "Ali",
+      "email": "ahmad@gmail.com",
+      "password": "1234",
+      "phone": "0987654321",
+      "country": "Pakistan",
+      "city": "Lahore",
+      "aboutMe": "A passionate user",
+      "profileImage": "https://example.com/profile/ahmad.jpg",
+      "googleAuth": false
+    },
+    {
+      "id": "508c",
+      "firstName": "Ashna",
+      "lastName": "Munawar",
+      "email": "ashnamunawar597@gmail.com",
+      "phone": "09123456789",
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "aboutMe": "Loves exploring new things",
+      "profileImage": "https://example.com/profile/ashna.jpg",
+      "googleAuth": true,
+      "token": "AMf-vBwR9g83T24h6Z9ylu5LiRY4vSGp7zqcq79DaYdqA1XvFv9owcEcyht3_nuXONFsjLj29Im7GvZ7jQsawfwPoUsa3tQuuDuWSy2dHMFEvbSJ5qtgmTRhzIc8POeNJ8DAYxhAkDD_UVTKCRg3XWxfXj7BazIfRkY_uyFqthJkyX_3IFccvVmNYoJ5zON5-93yDADQAA510CDNNQA01COdo7HoWqvCqdUHyZcTXPqQtd9zccWhxN9Xj88dWTCMmhC3ulq_uy5pxJi71aOvztd0GEt6NBh5jdLZj93r0L29Jc9XPvQDDeFWvahJPtv17BZKUxY5eDCBgEbYYhYzfxXvPcl8Q7hcjfA49VLU5lYadw5EpCeU94jQc5NHo5VLTQm5jgAQ8gj6WtmV1_cku8PblaV0tRvksOw5wKpiYdemuxlgrJHUUzKHCpsfgZ3Lv8YXKP07e8L9"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "Step-by-Step Guide",
+      "description": "Guidance video on using the Passages App",
+      "url": "https://youtube.com/shorts/i_V9RQdYEWU?si=MneRfB7XsaMtBgyk"
+    }
+  ]
+}

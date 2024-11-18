@@ -1,0 +1,12 @@
+
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Step-by-Step Guide",
+        "description": "Guidance video on using the Passages App",
+        "url": "https://your-video-url.mp4"
+      }
+    ]
+  }
+  
